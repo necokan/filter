@@ -78,6 +78,7 @@ auctions.yahoo.co.jp##li:has-text(shaolin_co)
 auctions.yahoo.co.jp##li:has-text(ekjr1065)
 auctions.yahoo.co.jp##li:has-text(ryo_ji1977)
 auctions.yahoo.co.jp##li:has-text(newyork19xx)
+auctions.yahoo.co.jp##li:has-text(najjy20418)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(zenevas_king)
