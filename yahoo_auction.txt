@@ -1,6 +1,6 @@
 [Adblock Plus 2.0]
 ! Title: ヤフオクフィルタ
-! Homepage: 
+! 
 ! 最終更新 2020/11/10
 ! ----- ヤフオク ----- !
 ! auctions.yahoo.co.jp##li:has-text()
