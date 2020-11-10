@@ -1,0 +1,31 @@
+[Adblock Plus 2.0]
+! Title: ヤフオクフィルタ
+! Homepage: 
+! 最終更新 2020/11/10
+! ----- ヤフオク ----- !
+! auctions.yahoo.co.jp##li:has-text()
+
+! ----- プラモデル ----- !
+! ----- ストア 悪質 ----- !
+auctions.yahoo.co.jp##li:has-text(toys_h1)
+auctions.yahoo.co.jp##li:has-text(toyshop_japan)
+auctions.yahoo.co.jp##li:has-text(route333)
+auctions.yahoo.co.jp##li:has-text(tiger_suisan2)
+auctions.yahoo.co.jp##li:has-text(paranoia_agents)
+auctions.yahoo.co.jp##li:has-text(bii_dama_2000)
+auctions.yahoo.co.jp##li:has-text(kokau555jp)
+auctions.yahoo.co.jp##li:has-text(mbwgv18975)
+auctions.yahoo.co.jp##li:has-text(hugmart2013)
+auctions.yahoo.co.jp##li:has-text(cocoroad_net21)
+auctions.yahoo.co.jp##li:has-text(hobbyshop_japan)
+
+! ----- ストア ----- !
+auctions.yahoo.co.jp##li:has-text(zeusjapanaoc)
+auctions.yahoo.co.jp##li:has-text(ssol_sell)
+auctions.yahoo.co.jp##li:has-text(how_l_nishi)
+auctions.yahoo.co.jp##li:has-text(saitou_9546)
+auctions.yahoo.co.jp##li:has-text(otaichikomaki)
+auctions.yahoo.co.jp##li:has-text(bookoff2014)
+
+! ----- 転売屋 ----- !
+auctions.yahoo.co.jp##li:has-text(y3rf8qwzt8)
