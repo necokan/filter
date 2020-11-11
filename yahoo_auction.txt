@@ -3,7 +3,7 @@
 ! 
 ! 最終更新 2020/11/11
 ! ----- ヤフオク ----- !
-! ストア悪質 : 自演つり上げ、送料詐欺、転売、ぼったくり
+! ストア悪質 : 自演つり上げ、送料詐欺、転売、ぼったくり、現品写真なし
 ! ストア : 転売、ぼったくり
 ! 転売屋 : 個人の転売屋、ぼったくり、送料詐欺、現品写真なし
 ! 現品写真なし :
@@ -30,6 +30,7 @@ auctions.yahoo.co.jp##li:has-text(mirairich2)
 auctions.yahoo.co.jp##li:has-text(yoshin630000)
 auctions.yahoo.co.jp##li:has-text(xhkgr670)
 auctions.yahoo.co.jp##li:has-text(smile_company_atsugi)
+auctions.yahoo.co.jp##li:has-text(hs_jumbo)
 
 ! ----- ストア ----- !
 auctions.yahoo.co.jp##li:has-text(zeusjapanaoc)
