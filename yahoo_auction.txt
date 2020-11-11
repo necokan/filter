@@ -493,7 +493,6 @@ auctions.yahoo.co.jp##li:has-text(vzlml27674)
 auctions.yahoo.co.jp##li:has-text(vlfxh68938)
 auctions.yahoo.co.jp##li:has-text(apjta45715)
 
-
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(zenevas_king)
 auctions.yahoo.co.jp##li:has-text(maple28ki)
