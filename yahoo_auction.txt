@@ -179,6 +179,9 @@ auctions.yahoo.co.jp##li:has-text(odorunya_yokoiwa)
 auctions.yahoo.co.jp##li:has-text(jprealize)
 auctions.yahoo.co.jp##li:has-text(kirinnswordsman)
 auctions.yahoo.co.jp##li:has-text(exceed2007fs)
+auctions.yahoo.co.jp##li:has-text(fukukital)
+auctions.yahoo.co.jp##li:has-text(hibinoyoshio)
+auctions.yahoo.co.jp##li:has-text(ohtake212)
 
 ! ----- 現品写真なし ----- !
 auctions.yahoo.co.jp##li:has-text(akihatasp)
@@ -484,6 +487,12 @@ auctions.yahoo.co.jp##li:has-text(jsxrl74934)
 auctions.yahoo.co.jp##li:has-text(gmpwdvqs8)
 auctions.yahoo.co.jp##li:has-text(vrita59515)
 auctions.yahoo.co.jp##li:has-text(nvnp6369)
+auctions.yahoo.co.jp##li:has-text(gfjuz58489)
+auctions.yahoo.co.jp##li:has-text(bmcdq66607)
+auctions.yahoo.co.jp##li:has-text(vzlml27674)
+auctions.yahoo.co.jp##li:has-text(vlfxh68938)
+auctions.yahoo.co.jp##li:has-text(apjta45715)
+
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(zenevas_king)
