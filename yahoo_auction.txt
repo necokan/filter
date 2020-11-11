@@ -315,6 +315,9 @@ auctions.yahoo.co.jp##li:has-text(urlam142)
 auctions.yahoo.co.jp##li:has-text(dttk452)
 auctions.yahoo.co.jp##li:has-text(atjmtma)
 auctions.yahoo.co.jp##li:has-text(qgajl15877)
+auctions.yahoo.co.jp##li:has-text(mintan1213)
+auctions.yahoo.co.jp##li:has-text(ugmkm18433)
+auctions.yahoo.co.jp##li:has-text(rajitentokushima)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(zenevas_king)
