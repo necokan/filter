@@ -182,6 +182,7 @@ auctions.yahoo.co.jp##li:has-text(exceed2007fs)
 auctions.yahoo.co.jp##li:has-text(fukukital)
 auctions.yahoo.co.jp##li:has-text(hibinoyoshio)
 auctions.yahoo.co.jp##li:has-text(ohtake212)
+auctions.yahoo.co.jp##li:has-text(hatsu3901)
 
 ! ----- 現品写真なし ----- !
 auctions.yahoo.co.jp##li:has-text(akihatasp)
