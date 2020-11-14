@@ -11,6 +11,27 @@
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
 
+! ----- 2020/11/14 ----- !
+! ----- プラモデル ----- !
+! ----- 転売屋 ----- !
+auctions.yahoo.co.jp##li:has-text(frozen_81801)
+auctions.yahoo.co.jp##li:has-text(gpmbg199)
+auctions.yahoo.co.jp##li:has-text(mmks79760212)
+auctions.yahoo.co.jp##li:has-text(s0612039)
+auctions.yahoo.co.jp##li:has-text(nankaiinankai)
+
+! ----- 現品写真なし ----- !
+auctions.yahoo.co.jp##li:has-text(fqwee05300)
+auctions.yahoo.co.jp##li:has-text(pgtkx79058)
+auctions.yahoo.co.jp##li:has-text(molwr23338)
+auctions.yahoo.co.jp##li:has-text(ycqgn09486)
+
+! ----- 検索妨害 ----- !
+auctions.yahoo.co.jp##li:has-text(metal_drive_gale)
+auctions.yahoo.co.jp##li:has-text(ika_tako_ball)
+auctions.yahoo.co.jp##li:has-text(otomeshumi)
+auctions.yahoo.co.jp##li:has-text(yutas20002003)
+
 ! ----- 2020/11/11 ----- !
 ! ----- プラモデル ----- !
 ! ----- ストア 悪質 ----- !
