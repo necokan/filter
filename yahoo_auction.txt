@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ヤフオクフィルタ
 ! 
-! 最終更新 2020/11/14
+! 最終更新 2020/11/16
 ! ----- ヤフオク ----- !
 ! ストア悪質 : 自演つり上げ、送料詐欺、転売、ぼったくり、現品写真なし
 ! ストア : 転売、ぼったくり
@@ -10,6 +10,56 @@
 ! 検索妨害 : 商品名などに関係ないワード
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
+
+! ----- 2020/11/16 ----- !
+! ----- プラモデル ----- !
+! ----- 転売屋 ----- !
+auctions.yahoo.co.jp##li:has-text(komatinia3657)
+auctions.yahoo.co.jp##li:has-text(hikokizune)
+auctions.yahoo.co.jp##li:has-text(tlcfo000)
+auctions.yahoo.co.jp##li:has-text(quamndwe)
+auctions.yahoo.co.jp##li:has-text(faculty_satika)
+
+! ----- 現品写真なし ----- !
+auctions.yahoo.co.jp##li:has-text(htdac23485)
+auctions.yahoo.co.jp##li:has-text(jadjx64266)
+auctions.yahoo.co.jp##li:has-text(aozfp11319)
+auctions.yahoo.co.jp##li:has-text(wxccm24710)
+auctions.yahoo.co.jp##li:has-text(iojiq86067)
+auctions.yahoo.co.jp##li:has-text(qtxib18141)
+auctions.yahoo.co.jp##li:has-text(kruiq86346)
+auctions.yahoo.co.jp##li:has-text(ddwog05502)
+auctions.yahoo.co.jp##li:has-text(jxhzd43753)
+auctions.yahoo.co.jp##li:has-text(zbrle74712)
+auctions.yahoo.co.jp##li:has-text(vbjlk91219)
+auctions.yahoo.co.jp##li:has-text(kualh74139)
+auctions.yahoo.co.jp##li:has-text(j1wps2g9)
+auctions.yahoo.co.jp##li:has-text(cfzqq66945)
+auctions.yahoo.co.jp##li:has-text(jpkel95621)
+auctions.yahoo.co.jp##li:has-text(ynuqg09126)
+auctions.yahoo.co.jp##li:has-text(bphya17948)
+auctions.yahoo.co.jp##li:has-text(otbgv72294)
+auctions.yahoo.co.jp##li:has-text(mevqb07050)
+auctions.yahoo.co.jp##li:has-text(qplfv54862)
+auctions.yahoo.co.jp##li:has-text(bbnmz86720)
+auctions.yahoo.co.jp##li:has-text(vvjfg48058)
+auctions.yahoo.co.jp##li:has-text(pfbkegtys)
+auctions.yahoo.co.jp##li:has-text(qxymp09864)
+auctions.yahoo.co.jp##li:has-text(ahfba86321)
+auctions.yahoo.co.jp##li:has-text(qoopk00491)
+auctions.yahoo.co.jp##li:has-text(bdsvj36047)
+auctions.yahoo.co.jp##li:has-text(xipzr55779)
+auctions.yahoo.co.jp##li:has-text(vaseg36848)
+auctions.yahoo.co.jp##li:has-text(aazhg38680)
+auctions.yahoo.co.jp##li:has-text(fnhrnq07)
+auctions.yahoo.co.jp##li:has-text(vtxse39658)
+auctions.yahoo.co.jp##li:has-text(lwaoi59881)
+auctions.yahoo.co.jp##li:has-text(lbbsvv)
+auctions.yahoo.co.jp##li:has-text(fannaoderen00165z)
+auctions.yahoo.co.jp##li:has-text(obdsc63599)
+
+! ----- 検索妨害 ----- !
+auctions.yahoo.co.jp##li:has-text(moshowtoys)
 
 ! ----- 2020/11/14 ----- !
 ! ----- プラモデル ----- !
