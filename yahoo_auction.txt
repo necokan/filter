@@ -76,6 +76,7 @@ auctions.yahoo.co.jp##li:has-text(nobxiubfy)
 auctions.yahoo.co.jp##li:has-text(hajpj85)
 auctions.yahoo.co.jp##li:has-text(nuj24rtnl)
 auctions.yahoo.co.jp##li:has-text(csnsg07264)
+auctions.yahoo.co.jp##li:has-text(kaedepons80s)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(moshowtoys)
