@@ -59,9 +59,27 @@ auctions.yahoo.co.jp##li:has-text(fannaoderen00165z)
 auctions.yahoo.co.jp##li:has-text(obdsc63599)
 auctions.yahoo.co.jp##li:has-text(hbb624lmt)
 auctions.yahoo.co.jp##li:has-text(javqw10431)
+auctions.yahoo.co.jp##li:has-text(qgpfdjzojogla)
+auctions.yahoo.co.jp##li:has-text(lhrpk14560)
+auctions.yahoo.co.jp##li:has-text(kyukidtyhjsegr)
+auctions.yahoo.co.jp##li:has-text(sfvza61156)
+auctions.yahoo.co.jp##li:has-text(bzcou52475)
+auctions.yahoo.co.jp##li:has-text(xz12sgvw)
+auctions.yahoo.co.jp##li:has-text(eosneojs)
+auctions.yahoo.co.jp##li:has-text(shsiejsooe)
+auctions.yahoo.co.jp##li:has-text(udsne49273)
+auctions.yahoo.co.jp##li:has-text(bfppx6ksl)
+auctions.yahoo.co.jp##li:has-text(ycjnk85990)
+auctions.yahoo.co.jp##li:has-text(wafaw08755)
+auctions.yahoo.co.jp##li:has-text(mcmvkl)
+auctions.yahoo.co.jp##li:has-text(nobxiubfy)
+auctions.yahoo.co.jp##li:has-text(hajpj85)
+auctions.yahoo.co.jp##li:has-text(nuj24rtnl)
+auctions.yahoo.co.jp##li:has-text(csnsg07264)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(moshowtoys)
+auctions.yahoo.co.jp##li:has-text(warubou0461392)
 
 ! ----- 2020/11/14 ----- !
 ! ----- プラモデル ----- !
