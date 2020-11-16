@@ -58,6 +58,7 @@ auctions.yahoo.co.jp##li:has-text(lbbsvv)
 auctions.yahoo.co.jp##li:has-text(fannaoderen00165z)
 auctions.yahoo.co.jp##li:has-text(obdsc63599)
 auctions.yahoo.co.jp##li:has-text(hbb624lmt)
+auctions.yahoo.co.jp##li:has-text(javqw10431)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(moshowtoys)
