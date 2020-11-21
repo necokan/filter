@@ -1,0 +1,13 @@
+[Adblock Plus 2.0]
+! Title: YouTube
+! 
+! 最終更新 2020/11/21
+!
+! youtube.com###dismissable:has(.ytd-channel-name:has-text(チャンネル名))
+
+! ----- YouTube ----- !
+youtube.com###dismissable:has(.ytd-channel-name:has-text(HikakinTV))
+youtube.com###dismissable:has(.ytd-channel-name:has-text(HIKAKIN))
+youtube.com###dismissable:has(.ytd-channel-name:has-text(HikakinGames))
+youtube.com###dismissable:has(.ytd-channel-name:has-text(HikakinBlog))
+youtube.com###dismissable:has(.ytd-channel-name:has-text(香坂きのと模型人ーもけんちゅーTV))
