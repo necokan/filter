@@ -1,15 +1,133 @@
 [Adblock Plus 2.0]
 ! Title: ヤフオクフィルタ
 ! 
-! 最終更新 2020/11/16
+! 最終更新 2020/11/21
 ! ----- ヤフオク ----- !
 ! ストア悪質 : 自演つり上げ、送料詐欺、転売、ぼったくり、現品写真なし
 ! ストア : 転売、ぼったくり
 ! 転売屋 : 個人の転売屋、ぼったくり、送料詐欺、現品写真なし
 ! 現品写真なし : 転売屋、詐欺、送料詐欺、無在庫販売
+! 悪質 : 詐欺、海外発送
 ! 検索妨害 : 商品名などに関係ないワード
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
+
+! ----- 2020/11/21 ----- !
+! ----- プラモデル ----- !
+! ----- ストア ----- !
+auctions.yahoo.co.jp##li:has-text(masateka_0501)
+
+! ----- 転売屋 ----- !
+auctions.yahoo.co.jp##li:has-text(thepatchworkearth_02)
+auctions.yahoo.co.jp##li:has-text(ef7jp)
+
+! ----- 現品写真なし ----- !
+auctions.yahoo.co.jp##li:has-text(fszvo08703)
+auctions.yahoo.co.jp##li:has-text(gqmmn18562)
+auctions.yahoo.co.jp##li:has-text(tggxx86053)
+auctions.yahoo.co.jp##li:has-text(chmdd84070)
+auctions.yahoo.co.jp##li:has-text(nkuaq74412)
+auctions.yahoo.co.jp##li:has-text(hiroyua0627)
+auctions.yahoo.co.jp##li:has-text(ipadzyanainndakarane)
+auctions.yahoo.co.jp##li:has-text(rk4uka)
+auctions.yahoo.co.jp##li:has-text(c5mg2ry5)
+auctions.yahoo.co.jp##li:has-text(kbh8ksaf8)
+auctions.yahoo.co.jp##li:has-text(qgvxe53128)
+auctions.yahoo.co.jp##li:has-text(infkndasgasdg)
+auctions.yahoo.co.jp##li:has-text(ommrc39114)
+auctions.yahoo.co.jp##li:has-text(irowajefajdfj903)
+auctions.yahoo.co.jp##li:has-text(cvfui65924)
+auctions.yahoo.co.jp##li:has-text(yamaaj131)
+auctions.yahoo.co.jp##li:has-text(hidemaru00048s)
+auctions.yahoo.co.jp##li:has-text(kazuchii_0920)
+auctions.yahoo.co.jp##li:has-text(polimbookyoto)
+auctions.yahoo.co.jp##li:has-text(xxvscc)
+auctions.yahoo.co.jp##li:has-text(wfjaidjao)
+auctions.yahoo.co.jp##li:has-text(ejsrnkxnokj)
+auctions.yahoo.co.jp##li:has-text(qxriu4dl)
+auctions.yahoo.co.jp##li:has-text(xinlixin0071z)
+auctions.yahoo.co.jp##li:has-text(drama_max55)
+auctions.yahoo.co.jp##li:has-text(m26nk3mk)
+auctions.yahoo.co.jp##li:has-text(oosoerjhsio)
+auctions.yahoo.co.jp##li:has-text(jgpsk59124)
+auctions.yahoo.co.jp##li:has-text(lfzgb35513)
+auctions.yahoo.co.jp##li:has-text(oagmm37119)
+auctions.yahoo.co.jp##li:has-text(hitpw55154)
+auctions.yahoo.co.jp##li:has-text(qzrrg16817)
+auctions.yahoo.co.jp##li:has-text(xvwkr36554)
+auctions.yahoo.co.jp##li:has-text(miyamotoatusi24)
+auctions.yahoo.co.jp##li:has-text(vcdkn70150)
+auctions.yahoo.co.jp##li:has-text(bvvsy73414)
+auctions.yahoo.co.jp##li:has-text(k01bon)
+auctions.yahoo.co.jp##li:has-text(npkud51695)
+auctions.yahoo.co.jp##li:has-text(vberzrzq)
+auctions.yahoo.co.jp##li:has-text(imyzz69085)
+auctions.yahoo.co.jp##li:has-text(bbqpr75900)
+auctions.yahoo.co.jp##li:has-text(ghujdtyjsrsjr)
+auctions.yahoo.co.jp##li:has-text(masaoyagi_0509)
+auctions.yahoo.co.jp##li:has-text(ciajd64493)
+auctions.yahoo.co.jp##li:has-text(fujwj36156)
+auctions.yahoo.co.jp##li:has-text(llree09201)
+auctions.yahoo.co.jp##li:has-text(outamou)
+auctions.yahoo.co.jp##li:has-text(ufheoajfoae)
+auctions.yahoo.co.jp##li:has-text(akrjm41002)
+auctions.yahoo.co.jp##li:has-text(tymnk60322)
+auctions.yahoo.co.jp##li:has-text(e2yoqd39)
+auctions.yahoo.co.jp##li:has-text(ariyuzu7)
+auctions.yahoo.co.jp##li:has-text(m_konishi1981)
+auctions.yahoo.co.jp##li:has-text(lkhts34316)
+auctions.yahoo.co.jp##li:has-text(duxhx63233)
+auctions.yahoo.co.jp##li:has-text(awvqq96234)
+auctions.yahoo.co.jp##li:has-text(wcbnb09700)
+auctions.yahoo.co.jp##li:has-text(oobayasiryo45)
+auctions.yahoo.co.jp##li:has-text(qhxgf13539)
+auctions.yahoo.co.jp##li:has-text(gbxaj36461)
+auctions.yahoo.co.jp##li:has-text(iqayj77243)
+auctions.yahoo.co.jp##li:has-text(woquj09173)
+auctions.yahoo.co.jp##li:has-text(tbhfo91850)
+auctions.yahoo.co.jp##li:has-text(elfzl78306)
+auctions.yahoo.co.jp##li:has-text(fpmnztku)
+auctions.yahoo.co.jp##li:has-text(kcknm88522)
+auctions.yahoo.co.jp##li:has-text(omver47597)
+auctions.yahoo.co.jp##li:has-text(dzjoy02462)
+auctions.yahoo.co.jp##li:has-text(ecrxn41853)
+auctions.yahoo.co.jp##li:has-text(pwtaf84652)
+auctions.yahoo.co.jp##li:has-text(kucoq66253)
+auctions.yahoo.co.jp##li:has-text(pkouz60650)
+auctions.yahoo.co.jp##li:has-text(ue2wmk)
+auctions.yahoo.co.jp##li:has-text(wrnviugb)
+auctions.yahoo.co.jp##li:has-text(wxguym5d)
+auctions.yahoo.co.jp##li:has-text(ptnri96864)
+auctions.yahoo.co.jp##li:has-text(mksajfoij)
+auctions.yahoo.co.jp##li:has-text(nfhtz59296)
+auctions.yahoo.co.jp##li:has-text(njwkm38617)
+auctions.yahoo.co.jp##li:has-text(qomid18881)
+auctions.yahoo.co.jp##li:has-text(hjgvfhjgaef)
+auctions.yahoo.co.jp##li:has-text(hghfghbzsdrg)
+auctions.yahoo.co.jp##li:has-text(hcipm41843)
+auctions.yahoo.co.jp##li:has-text(nesnz06869)
+auctions.yahoo.co.jp##li:has-text(pbpeu89964)
+auctions.yahoo.co.jp##li:has-text(blacklist_fx)
+auctions.yahoo.co.jp##li:has-text(byjqx30729)
+auctions.yahoo.co.jp##li:has-text(jkhsghgfg)
+auctions.yahoo.co.jp##li:has-text(wexfa69758)
+auctions.yahoo.co.jp##li:has-text(xzkcj64729)
+auctions.yahoo.co.jp##li:has-text(bksxu96517)
+auctions.yahoo.co.jp##li:has-text(hvel9yvz)
+auctions.yahoo.co.jp##li:has-text(mgmnr67397)
+auctions.yahoo.co.jp##li:has-text(co9vcn)
+auctions.yahoo.co.jp##li:has-text(a06dmme8)
+auctions.yahoo.co.jp##li:has-text(kt9uqa)
+auctions.yahoo.co.jp##li:has-text(fe8aoa)
+auctions.yahoo.co.jp##li:has-text(xo4amw)
+auctions.yahoo.co.jp##li:has-text(ko2unw)
+auctions.yahoo.co.jp##li:has-text(uk2gnf)
+auctions.yahoo.co.jp##li:has-text(dm9tnd)
+auctions.yahoo.co.jp##li:has-text(nakanosouta111)
+auctions.yahoo.co.jp##li:has-text(ehswt14400)
+
+! ----- 悪質 ----- !
+auctions.yahoo.co.jp##li:has-text(g_temple1)
 
 ! ----- 2020/11/16 ----- !
 ! ----- プラモデル ----- !
