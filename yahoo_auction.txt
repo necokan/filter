@@ -22,6 +22,7 @@ auctions.yahoo.co.jp##li:has-text(videolandmickey)
 auctions.yahoo.co.jp##li:has-text(gamestation8888)
 auctions.yahoo.co.jp##li:has-text(snetfantasy)
 auctions.yahoo.co.jp##li:has-text(snetpocky)
+auctions.yahoo.co.jp##li:has-text(snetvisual)
 
 ! ----- ストア ----- !
 auctions.yahoo.co.jp##li:has-text(masateka_0501)
@@ -289,6 +290,7 @@ auctions.yahoo.co.jp##li:has-text(hvewd85261)
 auctions.yahoo.co.jp##li:has-text(mufbt04327)
 auctions.yahoo.co.jp##li:has-text(lrsag39209)
 auctions.yahoo.co.jp##li:has-text(cziyw12399)
+auctions.yahoo.co.jp##li:has-text(ihomes_222)
 
 ! ----- 悪質 ----- !
 auctions.yahoo.co.jp##li:has-text(g_temple1)
