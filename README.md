@@ -1,5 +1,6 @@
 # 自分用フィルタ
 自分用です
+きりがないねぇ
 
 [yahフィルタ購読](https://subscribe.adblockplus.org/?location=https://raw.githubusercontent.com/necokan/filter/main/yahoo_auction.txt&title=ヤフオク) 
 
