@@ -1,7 +1,7 @@
 [Adblock Plus 2.0]
 ! Title: ヤフオクフィルタ
 ! 
-! 最終更新 2020/11/21
+! 最終更新 2021/01/08
 ! ----- ヤフオク ----- !
 ! ストア悪質 : 自演つり上げ、送料詐欺、転売、ぼったくり、現品写真なし
 ! ストア : 転売、ぼったくり
@@ -11,6 +11,21 @@
 ! 検索妨害 : 商品名などに関係ないワード
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
+
+! ----- 2020/11/21 ----- !
+! ----- プラモデル ----- !
+! ----- 転売屋 ----- !
+auctions.yahoo.co.jp##li:has-text(qfhdjkfuysytaf)
+auctions.yahoo.co.jp##li:has-text(ooiiuuyytt0101)
+
+! ----- 現品写真なし ----- !
+auctions.yahoo.co.jp##li:has-text(jivzu58301)
+auctions.yahoo.co.jp##li:has-text(ofhht43017)
+auctions.yahoo.co.jp##li:has-text(xgdxp46195)
+auctions.yahoo.co.jp##li:has-text(ren_savarie)
+auctions.yahoo.co.jp##li:has-text(ldm825j22)
+auctions.yahoo.co.jp##li:has-text(cmmru13530)
+auctions.yahoo.co.jp##li:has-text(vpxsa70477)
 
 ! ----- 2020/11/21 ----- !
 ! ----- プラモデル ----- !
