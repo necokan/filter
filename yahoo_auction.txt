@@ -15,7 +15,7 @@
 ! ----- 2021/01/08 ----- !
 ! ----- プラモデル ----- !
 ! ----- ストア 悪質 ----- !
-auctions.yahoo.co.jp##li:has-text(NetTOTO)
+auctions.yahoo.co.jp##li:has-text(tohto_create)
 auctions.yahoo.co.jp##li:has-text(kaitoricollector_first)
 auctions.yahoo.co.jp##li:has-text(iinoaruzou)
 
