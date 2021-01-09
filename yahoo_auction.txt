@@ -17,6 +17,11 @@
 ! ----- 転売屋 ----- !
 auctions.yahoo.co.jp##li:has-text(qfhdjkfuysytaf)
 auctions.yahoo.co.jp##li:has-text(ooiiuuyytt0101)
+auctions.yahoo.co.jp##li:has-text(cacmp700)
+auctions.yahoo.co.jp##li:has-text(tomwww227)
+auctions.yahoo.co.jp##li:has-text(uuxxc88653)
+auctions.yahoo.co.jp##li:has-text(tsfqs32188)
+auctions.yahoo.co.jp##li:has-text(eri18301830)
 
 ! ----- 現品写真なし ----- !
 auctions.yahoo.co.jp##li:has-text(jivzu58301)
@@ -26,6 +31,10 @@ auctions.yahoo.co.jp##li:has-text(ren_savarie)
 auctions.yahoo.co.jp##li:has-text(ldm825j22)
 auctions.yahoo.co.jp##li:has-text(cmmru13530)
 auctions.yahoo.co.jp##li:has-text(vpxsa70477)
+auctions.yahoo.co.jp##li:has-text(pieyon1212)
+auctions.yahoo.co.jp##li:has-text(qrvrf76702)
+auctions.yahoo.co.jp##li:has-text(dmayl67196)
+auctions.yahoo.co.jp##li:has-text(zatqr08076)
 
 ! ----- 2020/11/21 ----- !
 ! ----- プラモデル ----- !
