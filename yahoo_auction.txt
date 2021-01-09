@@ -8,12 +8,17 @@
 ! 転売屋 : 個人の転売屋、ぼったくり、送料詐欺、現品写真なし
 ! 現品写真なし : 転売屋、詐欺、送料詐欺、無在庫販売
 ! 悪質 : 詐欺、海外発送
-! 検索妨害 : 商品名などに関係ないワード
+! 検索妨害 : 商品名などに関係ないワード、商品名と関係ないゴミ出品
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
 
 ! ----- 2021/01/08 ----- !
 ! ----- プラモデル ----- !
+! ----- ストア 悪質 ----- !
+auctions.yahoo.co.jp##li:has-text(NetTOTO)
+auctions.yahoo.co.jp##li:has-text(kaitoricollector_first)
+auctions.yahoo.co.jp##li:has-text(iinoaruzou)
+
 ! ----- 転売屋 ----- !
 auctions.yahoo.co.jp##li:has-text(qfhdjkfuysytaf)
 auctions.yahoo.co.jp##li:has-text(ooiiuuyytt0101)
@@ -22,6 +27,11 @@ auctions.yahoo.co.jp##li:has-text(tomwww227)
 auctions.yahoo.co.jp##li:has-text(uuxxc88653)
 auctions.yahoo.co.jp##li:has-text(tsfqs32188)
 auctions.yahoo.co.jp##li:has-text(eri18301830)
+auctions.yahoo.co.jp##li:has-text(ifsys_phase2)
+auctions.yahoo.co.jp##li:has-text(yohsukenakai)
+auctions.yahoo.co.jp##li:has-text(patapatamo)
+auctions.yahoo.co.jp##li:has-text(okshinx)
+auctions.yahoo.co.jp##li:has-text(endou_0609)
 
 ! ----- 現品写真なし ----- !
 auctions.yahoo.co.jp##li:has-text(jivzu58301)
@@ -35,6 +45,19 @@ auctions.yahoo.co.jp##li:has-text(pieyon1212)
 auctions.yahoo.co.jp##li:has-text(qrvrf76702)
 auctions.yahoo.co.jp##li:has-text(dmayl67196)
 auctions.yahoo.co.jp##li:has-text(zatqr08076)
+auctions.yahoo.co.jp##li:has-text(uiohn94237)
+auctions.yahoo.co.jp##li:has-text(gnkvf78638)
+auctions.yahoo.co.jp##li:has-text(jrkgy80717)
+auctions.yahoo.co.jp##li:has-text(yutwa91102)
+auctions.yahoo.co.jp##li:has-text(rlxcx48269)
+auctions.yahoo.co.jp##li:has-text(yspkaa6282)
+auctions.yahoo.co.jp##li:has-text(dupbv72384)
+auctions.yahoo.co.jp##li:has-text(rfjeiafjoe)
+
+! ----- 検索妨害 ----- !
+auctions.yahoo.co.jp##li:has-text(back3789)
+auctions.yahoo.co.jp##li:has-text(gkaov09341)
+auctions.yahoo.co.jp##li:has-text(taropon21)
 
 ! ----- 2020/11/21 ----- !
 ! ----- プラモデル ----- !
