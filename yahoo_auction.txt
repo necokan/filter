@@ -58,6 +58,7 @@ auctions.yahoo.co.jp##li:has-text(yspkaa6282)
 auctions.yahoo.co.jp##li:has-text(dupbv72384)
 auctions.yahoo.co.jp##li:has-text(rfjeiafjoe)
 auctions.yahoo.co.jp##li:has-text(fxy052727)
+auctions.yahoo.co.jp##li:has-text(alddh05571)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(back3789)
