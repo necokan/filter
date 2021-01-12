@@ -7,7 +7,8 @@
 ! ストア : 転売、ぼったくり
 ! 転売屋 : 個人の転売屋、ぼったくり、送料詐欺、現品写真なし
 ! 現品写真なし : 転売屋、詐欺、送料詐欺、無在庫販売
-! 悪質 : 詐欺、海外発送
+! 現品写真なし :
+! 悪質：転売屋、詐欺、送料詐欺、無在庫販売、自演、海外発送
 ! 検索妨害 : 商品名などに関係ないワード、商品名と関係ないゴミ出品
 ! 
 ! auctions.yahoo.co.jp##li:has-text()
@@ -25,9 +26,6 @@ auctions.yahoo.co.jp##li:has-text(qfhdjkfuysytaf)
 auctions.yahoo.co.jp##li:has-text(ooiiuuyytt0101)
 auctions.yahoo.co.jp##li:has-text(cacmp700)
 auctions.yahoo.co.jp##li:has-text(tomwww227)
-auctions.yahoo.co.jp##li:has-text(uuxxc88653)
-auctions.yahoo.co.jp##li:has-text(tsfqs32188)
-auctions.yahoo.co.jp##li:has-text(eri18301830)
 auctions.yahoo.co.jp##li:has-text(ifsys_phase2)
 auctions.yahoo.co.jp##li:has-text(yohsukenakai)
 auctions.yahoo.co.jp##li:has-text(patapatamo)
@@ -36,6 +34,12 @@ auctions.yahoo.co.jp##li:has-text(endou_0609)
 auctions.yahoo.co.jp##li:has-text(sadajpg)
 auctions.yahoo.co.jp##li:has-text(lilym42892)
 auctions.yahoo.co.jp##li:has-text(ken_hayakawa006)
+auctions.yahoo.co.jp##li:has-text(kazutomainibabygadekitayo)
+
+! ----- 悪質 ----- !
+auctions.yahoo.co.jp##li:has-text(uuxxc88653)
+auctions.yahoo.co.jp##li:has-text(tsfqs32188)
+auctions.yahoo.co.jp##li:has-text(eri18301830)
 
 ! ----- 現品写真なし ----- !
 auctions.yahoo.co.jp##li:has-text(jivzu58301)
@@ -59,6 +63,9 @@ auctions.yahoo.co.jp##li:has-text(dupbv72384)
 auctions.yahoo.co.jp##li:has-text(rfjeiafjoe)
 auctions.yahoo.co.jp##li:has-text(fxy052727)
 auctions.yahoo.co.jp##li:has-text(alddh05571)
+auctions.yahoo.co.jp##li:has-text(twjmq79941)
+auctions.yahoo.co.jp##li:has-text(jbprh69606)
+auctions.yahoo.co.jp##li:has-text(jnjao51909)
 
 ! ----- 検索妨害 ----- !
 auctions.yahoo.co.jp##li:has-text(back3789)
